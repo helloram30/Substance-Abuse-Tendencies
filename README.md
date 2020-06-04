@@ -5,10 +5,10 @@ pip install sklearn.preprocessing\
 pip install sklearn\
 pip install sklearn.model_selection\
 pip install sklearn.linear_model \
-pip install pandas as pd\
-pip install numpy as np\
-pip install seaborn as sns\
-pip install matplotlib.pyplot as plt\
+pip install pandas\
+pip install numpy\
+pip install seaborn\
+pip install matplotlib.pyplot\
 pip install sklearn.metrics\
 pip install sklearn.preprocessing \
 pip install sklearn.decomposition\
