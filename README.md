@@ -12,6 +12,6 @@ pip install matplotlib.pyplot as plt\
 pip install sklearn.metrics\
 pip install sklearn.preprocessing \
 pip install sklearn.decomposition\
-pip install sklearn.svm\
+pip install sklearn.svm
 # Usage #
 This Code can be run on any Python compiler
