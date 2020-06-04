@@ -15,3 +15,7 @@ pip install sklearn.decomposition\
 pip install sklearn.svm
 # Usage #
 This Code can be run on any Python compiler
+## Python ##
+Python is an interpreted, high-level, general-purpose programming language
+## MATLAB ##
+MATLAB is a multi-paradigm numerical computing environment and proprietary programming language developed by MathWorks.
