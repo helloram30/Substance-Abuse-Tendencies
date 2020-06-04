@@ -13,5 +13,5 @@ from sklearn.metrics import confusion_matrix\
 from sklearn.preprocessing import normalize\
 from sklearn.decomposition import PCA\
 from sklearn.svm import SVC# Usage #
-# Usage#
+# Usage #
 This Code can be run on any Python compiler
