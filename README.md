@@ -13,9 +13,11 @@ pip install sklearn.metrics\
 pip install sklearn.preprocessing \
 pip install sklearn.decomposition\
 pip install sklearn.svm
-# Usage #
+# Software Details #
 This Code can be run on any Python compiler
 ## Python ##
 Python is an interpreted, high-level, general-purpose programming language
+## Jupyter Notebook ##
+Jupyter is a nonprofit organization created to "develop open-source software, open-standards, and services for interactive computing across dozens of programming languages". Spun-off from IPython in 2014 by Fernando Pérez, Project Jupyter supports execution environments in several dozen languages.
 ## MATLAB ##
 MATLAB is a multi-paradigm numerical computing environment and proprietary programming language developed by MathWorks.
